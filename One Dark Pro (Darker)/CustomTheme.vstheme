@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="One Dark Pro (Darker)" GUID="{49c661e5-c9e8-42b8-bab4-78ad706c9f6d}" BaseGUID="{13c9c147-436e-4298-bead-189eeb0609d7}">
+  <Theme Name="One Dark Pro (Darker)" GUID="{69a8328e-c854-41a1-8e71-2db33bf6695a}" BaseGUID="{13c9c147-436e-4298-bead-189eeb0609d7}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF2C313A" />
@@ -3603,7 +3603,7 @@
         <Background Type="CT_RAW" Source="FFD6D6D6" />
       </Color>
       <Color Name="InfoBackground">
-        <Background Type="CT_RAW" Source="FF433519" />
+        <Background Type="CT_RAW" Source="FF233C56" />
       </Color>
       <Color Name="InfoText">
         <Background Type="CT_RAW" Source="FFFAFAFA" />
@@ -4364,21 +4364,21 @@
     </Category>
     <Category Name="InfoBar" GUID="{832df9d1-d9a9-4eb7-ad13-ff5b421f7432}">
       <Color Name="Button">
-        <Background Type="CT_RAW" Source="FF404754" />
+        <Background Type="CT_RAW" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="ButtonMouseDown">
-        <Background Type="CT_RAW" Source="FF404754" />
+        <Background Type="CT_RAW" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="CloseButton">
-        <Background Type="CT_RAW" Source="FF404754" />
+        <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="InfoBarBorder">
-        <Background Type="CT_RAW" Source="FF2C313A" />
+        <Background Type="CT_RAW" Source="FF233C56" />
       </Color>
       <Color Name="InfoBarBackground">
-        <Background Type="CT_RAW" Source="FF433519" />
+        <Background Type="CT_RAW" Source="FF233C56" />
         <Foreground Type="CT_RAW" Source="FFD7DAE0" />
       </Color>
       <Color Name="Hyperlink">
@@ -4397,46 +4397,46 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ButtonMouseOver">
-        <Background Type="CT_RAW" Source="FF4D5565" />
+        <Background Type="CT_RAW" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="CloseButtonHover">
-        <Background Type="CT_RAW" Source="FF4D5565" />
+        <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="CloseButtonHoverBorder">
-        <Background Type="CT_RAW" Source="FF4D5565" />
+        <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="ButtonBorder">
-        <Background Type="CT_RAW" Source="FF383D4B" />
+        <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="ButtonDisabled">
         <Background Type="CT_RAW" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5C5C5C" />
       </Color>
       <Color Name="ButtonDisabledBorder">
-        <Background Type="CT_RAW" Source="FF383D4B" />
+        <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="ButtonFocus">
         <Background Type="CT_RAW" Source="1AFFFFFF" />
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="ButtonFocusBorder">
-        <Background Type="CT_RAW" Source="FF707070" />
+        <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="ButtonMouseDownBorder">
         <Background Type="CT_RAW" Source="40FFFFFF" />
       </Color>
       <Color Name="ButtonMouseOverBorder">
-        <Background Type="CT_RAW" Source="40FFFFFF" />
+        <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="CloseButtonBorder">
         <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="CloseButtonDown">
-        <Background Type="CT_RAW" Source="FFD6D6D6" />
+        <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="CloseButtonDownBorder">
-        <Background Type="CT_RAW" Source="FF707070" />
+        <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="CloseButtonGlyph">
         <Background Type="CT_RAW" Source="FFD6D6D6" />
