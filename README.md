@@ -1,4 +1,4 @@
-# Keyboard Layout
+# Visual Studio Themes
 [![Total of Files](https://raw.githubusercontent.com/thewerthon/VisualStudioThemes/badges/files.svg)](./README.md)
 [![Lines of Code](https://raw.githubusercontent.com/thewerthon/VisualStudioThemes/badges/lines.svg)](./README.md)
 
