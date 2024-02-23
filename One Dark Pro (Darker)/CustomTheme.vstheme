@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="One Dark Pro (Darker) (6)" GUID="{6534d903-7d03-4011-87f9-cf4e9fc70bfa}" BaseGUID="{ea55b7ed-9e5d-470d-9416-bfb050ca037e}">
+  <Theme Name="One Dark Pro (Darker)" GUID="{6534d903-7d03-4011-87f9-cf4e9fc70bfa}" BaseGUID="{ea55b7ed-9e5d-470d-9416-bfb050ca037e}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF2C313A" />
