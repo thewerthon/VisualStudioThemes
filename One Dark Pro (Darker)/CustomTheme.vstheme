@@ -1309,7 +1309,7 @@
         <Foreground Type="CT_RAW" Source="FFABB2BF" />
       </Color>
       <Color Name="Container">
-        <Background Type="CT_RAW" Source="FF1A1A1A" />
+        <Background Type="CT_RAW" Source="FF23272E" />
         <Foreground Type="CT_RAW" Source="FFABB2BF" />
       </Color>
       <Color Name="GridHeadingHoverText">
